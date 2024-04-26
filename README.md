@@ -7,5 +7,5 @@ T mới được tiếp cận với chatgpt tầm 3 tháng trước, t thấy n�
 - Học tiếng anh, t có thể nhờ chatgpt phân tích cấu trúc ngữ pháp có trong một câu tiếng Anh. Đây là một phương pháp học tiếng Anh mà t được mattomo giới thiệu gọi là "pay attention", đại khái là t không chủ động học ngữ pháp mới trước, mà là khi t xem một video, clip, tài liệu nào đó, t thấy một cấu trúc ngữ pháp mới, hoặc là t đã quên thì đó chính là lúc t học ngữ pháp. Đây là cách t thấy học ngữ pháp tốt hơn nhiều so với việc "cày đề". 9/10
 - Nhờ sửa code va giai thich code =))). 8/10
 
-Thang điểm mà t chấm dựa trên tiêu chí việc t nhờ chatgpt làm, mang lại bao nhiêu lợi ích cho t và tiết kiệm có nhiều thời gian cho t hay không
+Thang điểm mà t chấm dựa trên tiêu chí việc t nhờ chatgpt làm, mang lại bao nhiêu lợi ích cho t và tiết kiệm có nhiều thời gian cho t hay không 
 Thế thôi ~~ 
